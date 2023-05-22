@@ -8,9 +8,9 @@ Esse é um projeto Web Responsivo de uma cápsula do tempo desenvolvido na Next 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido durante a NLW com as seguintes tecnologias:
 
--HTML
--CSS
--Git e Github
+- HTML
+- CSS
+- Git e Github
 
 ## 🏷 Layout
 Você pode visualizar o layout do projeto através
